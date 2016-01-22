@@ -1,0 +1,39 @@
+div p {
+  padding: 14vh 25px 14vh 25px;
+}
+
+p {
+  font-family: "Libian SC";
+  font-size: 20px;
+  text-align: center;
+  opacity: 0.8;
+  color: rgba(0, 0, 0, 0.0);
+  border-style: solid;
+  border-color: black;
+}
+
+p:hover {
+  background: white;
+  font-weight: 100;
+  color: black;
+  border-style: solid;
+  border-color: black;
+}
+
+#HB {
+  background-image: url("images/HB.png");
+  background-size: 105%;
+}
+
+#HB:hover {
+  background-image: url();
+}
+
+#MT {
+  background-image: url("images/MT.png");
+  background-size: 100%;
+}
+
+#MT:hover {
+  background-image: url();
+}
