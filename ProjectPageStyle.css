@@ -1,8 +1,11 @@
-div p {
-  padding: 14vh 25px 14vh 25px;
+p{
+  font-family: "Libian SC";
+  font-size: 60px;
+  text-align: center;
 }
 
-p {
+div p {
+  padding: 14vh 25px 14vh 25px;
   font-family: "Libian SC";
   font-size: 20px;
   text-align: center;
@@ -12,7 +15,7 @@ p {
   border-color: black;
 }
 
-p:hover {
+div p:hover {
   background: white;
   font-weight: 100;
   color: black;
@@ -36,4 +39,8 @@ p:hover {
 
 #MT:hover {
   background-image: url();
+}
+
+.page-header {
+  color: #1abbe8;
 }
