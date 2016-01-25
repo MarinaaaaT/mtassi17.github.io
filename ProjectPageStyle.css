@@ -4,7 +4,7 @@ p{
   text-align: center;
 }
 
-div p {
+div p{
   padding: 14vh 25px 14vh 25px;
   font-family: "Libian SC";
   font-size: 20px;
@@ -39,6 +39,10 @@ div p:hover {
 
 #MT:hover {
   background-image: url();
+}
+
+a:visited{
+  color: rgba(255, 0, 0, 0.1);
 }
 
 .page-header {
