@@ -41,6 +41,24 @@ div p:hover {
   background-image: url();
 }
 
+#CP {
+  background-image: url("images/CP.jpg");
+  background-size: 100%;
+}
+
+#CP:hover {
+  background-image: url();
+}
+
+#RI {
+  background-image: url("images/RI.jpeg");
+  background-size: 100%;
+}
+
+#RI:hover {
+  background-image: url();
+}
+
 a:visited{
   color: rgba(255, 0, 0, 0.1);
 }
